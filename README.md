@@ -1,1 +1,1 @@
-# Super-Market-Sales-Analysis
+This repository contains analysis of a supermarket's sales data, along with an interactive dashboard to visualize key insights. The analysis aims to uncover trends, patterns, and correlations within the dataset to help optimize business decisions.
